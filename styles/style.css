@@ -1,0 +1,36 @@
+p,a {
+    color: red;
+    width: 250px;
+}
+
+html {
+    font-family: "Rajdhani"; 
+    background-color: rgb(255, 0, 0);
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: -4px 3px 1px rgb(0, 0, 0);
+}
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid black;
+    padding: 0 20px 20px;
+    margin: 0 auto;
+}
+ul {
+    color: red;
+    width: 250px;
+}
+h1 {
+    color: red;
+    
+}
